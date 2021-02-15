@@ -1,0 +1,13 @@
+/home/abcdlsj/GitHub/Lang-Prac/rust-learn/tokio-redis-client/my-redis/target/debug/deps/ansi_term-daf4281003e64547.rmeta: /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/lib.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/ansi.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/style.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/difference.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/display.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/write.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/windows.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/util.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/debug.rs
+
+/home/abcdlsj/GitHub/Lang-Prac/rust-learn/tokio-redis-client/my-redis/target/debug/deps/ansi_term-daf4281003e64547.d: /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/lib.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/ansi.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/style.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/difference.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/display.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/write.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/windows.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/util.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/debug.rs
+
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/lib.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/ansi.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/style.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/difference.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/display.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/write.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/windows.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/util.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/debug.rs:

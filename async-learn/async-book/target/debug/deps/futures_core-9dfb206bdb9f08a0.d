@@ -1,0 +1,11 @@
+/home/abcdlsj/GitHub/Lang-Prac/rust-learn/async-learn/async-book/target/debug/deps/futures_core-9dfb206bdb9f08a0.rmeta: /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs
+
+/home/abcdlsj/GitHub/Lang-Prac/rust-learn/async-learn/async-book/target/debug/deps/futures_core-9dfb206bdb9f08a0.d: /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs /home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs
+
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs:
+/home/abcdlsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs:
